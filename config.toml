@@ -1,0 +1,66 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Quickened Interoperability for 2021"
+theme = "trex"
+enableRobotsTXT = true
+canonifyURLs = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+    subtitle = ""
+    subsite = "default"
+    ourvision = false
+    openGraphSiteName = "Quickened Interoperability, from TRex"
+    description = "Shining spotlights on the tracking, profiling of users and the influence of algorithms."
+    tagline = "A browser extension to scrape events from Facebook and repost them on the Fediverse"
+
+[permalinks]
+    posts = "/posts/:slug/"
+
+[menu]
+
+ [[menu.main]]
+    name = "The umbralla project"
+    url ="https://tracking.exposed"
+    weight = 10
+ [[menu.main]]
+    name = "Get in touch"
+    url = "/about"
+    weight = 20
+
+ [[menu.footer]]
+    name = "Publications"
+    url ="/about"
+    weight = 0
+ [[menu.footer]]
+    page = "Funding"
+    url = "/monthly"
+    weight = 20
+ [[menu.footer]]
+    page = "manifesto"
+    identifier = "manifesto"
+    name= "Manifesto"
+    url = "/manifesto"
+
+ [[menu.featured]]
+    name= "Why Facebook?"
+    url = "/why-facebook"
+    weight = -180
+    pre = "/images/trex-logo.svg"
+    post = "Not only the blue exploitative social network should be supported, check out the roadmap"
+ [[menu.featured]]
+    name = "How this helps Fediverse?"
+    url = "/fediverse"
+    weight = -170
+    pre = "/images/connect with us.svg"
+    post = "If you share the values in the Manifesto, you should check it out"
+ [[menu.featured]]
+    name = "Is this legal?"
+    url = "/how-is-this-possible"
+    weight = -160
+    pre = "/images/reports.svg"
+    post = "Beside the fact that we do this because is the right thing to do, it is legal no matter of what facebook might say"
