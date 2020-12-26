@@ -1,0 +1,8 @@
+
+# For hugo
+public/
+resources/_gen/
+themes/
+
+# Internal deployment method
+.infrastructure/*

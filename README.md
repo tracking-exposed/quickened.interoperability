@@ -1,4 +1,4 @@
-## Quickened Interoperabily website.
+## Quickened Interoperabily (website)
 
 This repository is the HTML/markedown and template used by Hugo to generate https://quickened.interoperability.tracking.exposed 
 

@@ -12,7 +12,7 @@ canonifyURLs = true
 
 [params]
     subtitle = ""
-    subsite = "default"
+    subsite = "quintrex"
     ourvision = false
     openGraphSiteName = "Quickened Interoperability, from TRex"
     description = "Shining spotlights on the tracking, profiling of users and the influence of algorithms."
@@ -37,12 +37,7 @@ canonifyURLs = true
     url ="/about"
     weight = 0
  [[menu.footer]]
-    page = "Funding"
-    url = "/monthly"
-    weight = 20
- [[menu.footer]]
     page = "manifesto"
-    identifier = "manifesto"
     name= "Manifesto"
     url = "/manifesto"
 
@@ -59,8 +54,8 @@ canonifyURLs = true
     pre = "/images/connect with us.svg"
     post = "If you share the values in the Manifesto, you should check it out"
  [[menu.featured]]
-    name = "Is this legal?"
+    name = "Is this legal? F.A.Q."
     url = "/how-is-this-possible"
     weight = -160
     pre = "/images/reports.svg"
-    post = "Beside the fact that we do this because is the right thing to do, it is legal no matter of what facebook might say"
+    post = "Yes, because Term of Service is not law. and regardless, this is the right thing to do"
