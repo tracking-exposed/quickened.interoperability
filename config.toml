@@ -24,10 +24,6 @@ canonifyURLs = true
 [menu]
 
  [[menu.main]]
-    name = "The umbralla project"
-    url ="https://tracking.exposed"
-    weight = 10
- [[menu.main]]
     name = "Get in touch"
     url = "/about"
     weight = 20
