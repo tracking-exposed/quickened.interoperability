@@ -50,4 +50,4 @@ canonifyURLs = true
     url = "/how-is-this-possible"
     weight = -160
     pre = "/images/reports.svg"
-    post = "Yes, because Term of Service is not law. and regardless, this is the right thing to do"
+    post = "Yes, because Term of Service is not law. and regardless, this is the right thing to do!"
