@@ -29,13 +29,9 @@ canonifyURLs = true
     weight = 20
 
  [[menu.footer]]
-    name = "Publications"
+    name = "Something?"
     url ="/about"
     weight = 0
- [[menu.footer]]
-    page = "manifesto"
-    name= "Manifesto"
-    url = "/manifesto"
 
  [[menu.featured]]
     name= "Why Facebook?"
