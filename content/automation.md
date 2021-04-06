@@ -15,19 +15,21 @@ og_description: "organize and coordinate your partecipation into the metadata li
 * download https://github.com/tracking-exposed/quickened.interoperability/releases/download/0.1.2/extension-librevents.zip and unpack them in the directory 'extension-place'; _You should see manifest.json in extension-place directory_.
 
 ```
- curl -L https://github.com/tracking-exposed/quickened.interoperability/releases/download/0.1.2/extension-librevents.zip -o extension-librevents.zip
+ curl -L https://github.com/tracking-exposed/quickened.interoperability/releases/download/0.1.3/extension.zip -o extension.zip
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100   632  100   632    0     0   1036      0 --:--:-- --:--:-- --:--:--  1122
+mv extension.zip extension-place/
+cd extension-place/
+unzip extension.zip
+cd ..
+mkdir profiles/liberator1
 ```
 
-`node scr/guardoni.js --source https://quickened.interoperability.tracking.exposed/json/conservative-filtertube.json --profile profiles/conservative1`
+Now, if you execute this command:
 
-or, if you enable debug:
+```
+$ DEBUG=* node src/guardoni.js --source https://quickened.interoperability.tracking.exposed/api/v2/common/previews/guardoni --profile profiles/liberator1/
+```
 
-`DEBUG=*,-puppeteer:* node src/guardoni.js --source https://youtube.tracking.exposed/json/progressive-filtertube.json --profile profiles/progressive1`
-
-### Last remarks: `guardoni` is in a preliminary stage and settings might change
-
-1. Please double check with the descriptive [README](https://github.com/tracking-exposed/yttrex/tree/master/methodology).
-2. Consider joining our [Mattermost chat](https://chat.securitywithoutborders.org/community/channels/trackingexposed) and reach out if you need any help.
+with a log of care for blankspaces, this is the best debug enviroment: `DEBUG=*,-puppeteer:*`
