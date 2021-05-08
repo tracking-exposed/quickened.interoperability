@@ -6,7 +6,7 @@ layout: monthly
 draft: false
 ---
 
-Vogliamo abbandonare Facebook? si.
+### Vogliamo abbandonare Facebook? si, ma...
 
 Forse già non sei più su Fb, forse non ci sei mai stata. meglio così.
 Il problema detto _massa critica_ è che chiunque abbia un'attività che dipende dalla visibilità non può fare a meno di essere su Fb, perchè è la rete con maggiore visibilità.
@@ -21,7 +21,7 @@ Ma stenta a succedere per vari motivi. Vogliamo concentrarci sul fatto che sulle
 
 Ecco, noi affrontiamo solo questo problema. Prendiamo gli eventi pubblici, pensati per essere il più possibile diffusi, e facilitiamo il fatto che vengano copiati (liberati), nel fediverse.
 
-In questo modo chi vuole cercare eventi sa che nel fediverse esistono tutti quelli che ci sarebbero su Facebook (magari con una selezione specializzata per nodo di destinazione), oltre che a quelli esclusivi del Fediverse, e quindi si rimuoverebbe il FOMO per loro, (anzi, si creerebbe il FOMO negli utenti Fb).
+In questo modo chi vuole cercare eventi sa che nel fediverse esistono tutti quelli che ci sarebbero su Facebook (magari con una selezione specializzata per nodo di destinazione), oltre che a quelli esclusivi del Fediverse, e quindi si rimuoverebbe il FOMO per loro, (anzi, si creerebbe della FOMO negli utenti Fb).
 
 Serve che vi installate l'estensione e liberate gli eventi. Serve che ogni città, o ogni contesto, abbia un nodo di fediverse di riferimento.
 

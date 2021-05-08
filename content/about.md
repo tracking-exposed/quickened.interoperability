@@ -1,9 +1,18 @@
----
-title: Quickened Interoperability with Librevent
-subtitle: About
-date: 2020-08-09:01:21+01:00
+title: Quick summary about us
+date: 2021-05-07
+layout: monthly
 draft: false
 ---
 
+This project:
 
-## Todo: who are we?
+* Has not any financial aim in its inception, minimize data collected, and if you don't fell it is transparent enough, please get in touch.
+* it is a temporarly limited experiment, a concept to explore on how citizen in 2021 might exert their rights
+* our target audience are group of people that want to leave facebook and feel struck in the monopoly effect, currently unregulated by the democratic institutions.
+* it is also developed in connection to an artistic product aimed to talk about your digital rights.
+
+**Contacts**: support at tracking dot exposed
+
+---
+
+_An italian concept draft for this project is [here](/italiano-1)._
