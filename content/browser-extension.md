@@ -9,5 +9,9 @@ layout: page
 {{<librevent-extension>}}
 
 
+How it works:
 
+
+
+## Automation
 
