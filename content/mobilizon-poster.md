@@ -34,6 +34,9 @@ Until the [issue n.2: allow to specify login password instead of debugging heade
 
 {{<bord-img href="/images/how-to-get-your-token-1.png">}}
 {{<bord-img href="/images/how-to-get-your-token-2.png">}}
+
+Then cause a reload, and look for the 'API' entry: you want to see the content of that connection.
+
 {{<bord-img href="/images/how-to-get-your-token-3.png">}}
 
 Then copy paste from `Bearer` till the end of the line:
