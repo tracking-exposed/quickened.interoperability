@@ -41,7 +41,7 @@ canonifyURLs = true
     post = "Not only the blue exploitative social network should be supported, check out the roadmap"
  [[menu.featured]]
     name = "How this helps Fediverse?"
-    url = "/fediverse"
+    url = "https://tracking.exposed/manifesto/"
     weight = -170
     pre = "/images/connect with us.svg"
     post = "If you share the values in the Manifesto, you should check it out"
