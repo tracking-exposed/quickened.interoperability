@@ -13,7 +13,7 @@ description: We operate to expose how tracking and profiting from user data had 
 
 ### and [mobilize.berlin](https://mobilize.berlin) is our first use-case!
 
-This is the launching event, a coalition of reality that wants to federate and build a critical mass to gradually sound an appearling alternative to Facebook Events.
+This is the launching event, a coalition of reality that wants to federate and build a critical mass to gradually sound an appealing alternative to Facebook Events.
 
 Copying events it is a simple support for people that would have published twice, we can see this also as an _excersive_ of the _data portability_ rights
 
