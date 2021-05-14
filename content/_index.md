@@ -13,12 +13,31 @@ description: We operate to expose how tracking and profiting from user data had 
 
 ### and [mobilize.berlin](https://mobilize.berlin) is our first use-case!
 
-This is the launching event, a coalition of reality that wants to federate and build a critical mass to gradually sound an appealing alternative to Facebook Events.
+This is the launching event, a coalition of reality that wants to federate and
+build a critical mass to gradually sound an appealing alternative to Facebook
+Events.
 
-Copying events it is a simple support for people that would have published twice, we can see this also as an _excersive_ of the _data portability_ rights
+Copying events it is a simple support for people that would have published
+twice, we can see this also as a _practice_ of the _data portability_ rights.
 
-The primary audience intended for this tool and approach are people that uses Facebook Events as that's the place where _everybody is_. They would move gladly somewhere else, as is their right, and they want to bring their own data with them, as is their right. With this tool, they perform a copy of the events they publish on Facebook and also somewhere else.
+**Interoperability** is a characteristic of a system to work with other systems.
 
-Mobilizon is the first platform supported, we look forward to integrate also in [gathio](https://gath.io) and [gancio](https://gancio.cisti.org/).
+An example: the Short Message Service (SMS) can be sent to everybody regardless
+of the provider they use or the brand of their phone. It may sounds simple and
+taken for granted, but is not. Interoperability is a right and we let as an
+exercise to the reader to see how this concept can apply in the internet of
+today, for example when it comes to Instant messages.
+
+The experiment we are doing here concerns the characteristic for a post on
+Facebook to be visible elsewhere on the Fediverse.
+
+The primary audience intended for this tool and approach are people that uses
+Facebook Events as that's the place where _everybody is_. They would move gladly
+somewhere else, as is their right, and they want to bring their own data with
+them, as is their right. With this tool, they perform a copy of the events they
+publish on Facebook and also somewhere else.
+
+Mobilizon is the first platform supported, we look forward to integrate also in
+[gathio](https://gath.io) and [gancio](https://gancio.cisti.org/).
 
 {{<librevent-extension>}}
