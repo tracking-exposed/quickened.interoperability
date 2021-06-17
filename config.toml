@@ -29,25 +29,25 @@ canonifyURLs = true
     weight = 20
 
  [[menu.footer]]
-    name = "Something?"
+    name = "Get in touch"
     url ="/about"
     weight = 0
 
  [[menu.featured]]
-    name= "Why Facebook?"
-    url = "/why-facebook"
+    name= "LIBREVENT"
+    url = "https://addons.mozilla.org/en-US/firefox/addon/librevent/"
     weight = -180
-    pre = "/images/trex-logo.svg"
-    post = "Not only the blue exploitative social network should be supported, check out the roadmap"
+    pre = "/images/librevent.png"
+    post = "Our browser extension meant to set events free from Facebook"
  [[menu.featured]]
-    name = "How this helps Fediverse?"
-    url = "/fediverse"
+    name = "MOBILIZON"
+    url = "https://joinmobilizon.org/en/"
     weight = -170
-    pre = "/images/connect with us.svg"
+    pre = "/images/mobilizon.png"
     post = "If you share the values in the Manifesto, you should check it out"
  [[menu.featured]]
-    name = "Is this legal? F.A.Q."
-    url = "/how-is-this-possible"
+    name = "MOBILIZE.BERLIN"
+    url = "https://mobilize.berlin/"
     weight = -160
-    pre = "/images/reports.svg"
-    post = "Yes, because Term of Service is not law. and regardless, this is the right thing to do!"
+    pre = "/images/park.jpg"
+    post = "Our first use case. Coming on strong :)"
