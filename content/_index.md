@@ -34,5 +34,4 @@ An example: the Short Message Service <b style="font-family: monospace, monospac
 ### Mobilizon is the first platform supported, we look forward to integrate also in [gathio](https://gath.io) and [gancio](https://gancio.cisti.org/).
 
 
-{{<librevent-extension>}}
-
+<!-- {{<librevent-extension>}} -->
