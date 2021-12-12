@@ -1,20 +1,13 @@
 ---
-title: libre.events tool
+title: libre.events tool — libertadata
 subtitle: A quick user guide
 date: 2021-10-09
 draft: false
 layout: page
 ---
 
-**Requirement**: nodejs installed in your system.
 
-```
-git clone https://github.com/tracking-exposed/librevent
-cd librevent
-sh ./buildall.sh
-```
 
-This would enter in three directories, execute `npm install` and few other building commands. In the case of failures, please report them in our [github issue place](https://github.com/tracking-exposed/librevent/issues).
 
 
 ### First step: produce the pointers file
