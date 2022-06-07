@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Quickened Interoperability for 2021"
+title = "Data liberation, and break the Facebook monopoly!"
 theme = "trex"
 enableRobotsTXT = true
 canonifyURLs = true
@@ -14,15 +14,14 @@ canonifyURLs = true
     subtitle = ""
     subsite = "quintrex"
     ourvision = false
-    openGraphSiteName = "Quickened Interoperability, from TRex"
-    description = "Shining spotlights on the tracking, profiling of users and the influence of algorithms."
-    tagline = "A browser extension to scrape events from Facebook and repost them on the Fediverse"
+    openGraphSiteName = "Data liberation, and break the Facebook monopoly!"
+    description = "A browser extension to scrape events from Facebook and repost them on the Fediverse"
+    tagline = "Technology to liberate events from facebook monopoly"
 
 [permalinks]
     posts = "/posts/:slug/"
 
 [menu]
-
  [[menu.main]]
     name = "Get in touch"
     url = "/about"
@@ -40,14 +39,14 @@ canonifyURLs = true
     pre = "/images/librevent.png"
     post = "Our browser extension meant to set events free from Facebook"
  [[menu.featured]]
-    name = "MOBILIZON"
-    url = "https://joinmobilizon.org/en/"
+    name = "MOBILIZON RESHARE"
+    url = "/mobilizon-reshare/"
     weight = -170
     pre = "/images/mobilizon.png"
-    post = "If you share the values in the Manifesto, you should check it out"
+    post = "A tool to broadcast Mobilizon events on social media platforms"
  [[menu.featured]]
     name = "MOBILIZE.BERLIN"
     url = "https://mobilize.berlin/"
     weight = -160
     pre = "/images/park.jpg"
-    post = "Our first use case. Coming on strong :)"
+    post = "Check out a use case. Your can be the next!"
