@@ -26,6 +26,10 @@ canonifyURLs = true
     name = "Get in touch"
     url = "/about"
     weight = 20
+ [[menu.main]]
+    name = "Intro slideshow"
+    url = "/slides/intro"
+    weight = 30
 
  [[menu.footer]]
     name = "Get in touch"

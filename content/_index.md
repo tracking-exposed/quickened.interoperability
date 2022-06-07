@@ -36,9 +36,8 @@ at 4 PM:
 8 PM: end! 🍻
 
 
----
 
-{{<librevent-extension>}}
+<!-- {{<librevent-extension>}} -->
 
 ---
 
