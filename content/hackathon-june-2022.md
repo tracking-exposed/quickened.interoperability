@@ -15,13 +15,13 @@ extraCSS: "/css/fixers.css"
 
 #### Tweets to be send
 
-This Saturday 11th of June, join Mobilize Berlin and @trackingexposed for a new hackathon at c-base from 14:00 to 20:00, and be part of our project called Libre Event. We want to take back control over how we socialize and get together. Let’s get free from digital platforms!
+This Saturday 11th of June, join [Mobilize Berlin](https://mobilize.berlin) and [trackingexposed](https://tracking.exposed) for a new hackathon at c-base from 14:00 to 20:00, and be part of our project called _librevent_. We want to take back control over how we socialize and get together. Let’s get free from digital platforms!
 
 People have the right to experience their social and private life being free from invasive algorithms and greedy corporations that don’t share love for the communities they exploit. Personal data protection can be great, but we also need a safe space where to keep our events!
 
 Improving our free-software tools we can make it easier to cross-post events on Mobilizon and other common event-management platforms. This can make life easier for those who want to organize and promote events without feeding the big tech-corps and surveillance capitalism
 
-So take part to our hackathon at c-base this Saturday 11th of June from 14:00 to 20:00. Together we will learn how to use and improve our tool Libre Event! We will make our part for a more equal and decentralized world, imagining the future of our events and federated networks.
+So take part to our hackathon at c-base this Saturday 11th of June from 14:00 to 20:00. Together we will learn how to use and improve our tool _librevent_! We will make our part for a more equal and decentralized world, imagining the future of our events and federated networks.
 
 #### Communication plan/analysis
 
@@ -93,8 +93,6 @@ So take part to our hackathon at c-base this Saturday 11th of June from 14:00 to
 <img src="/images/hckt-06-22/join the hackathon-2.png" />
 
 
+#### Special animation
 
-#### logotype
-
-
-<img src="/images/logos/librevents-outline.jpg" />
+<img src="/libr.events.morphing.gif" />
