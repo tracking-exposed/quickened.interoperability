@@ -18,12 +18,8 @@ extraCSS: "/css/fixers.css"
 * it was initially developed in connection to an artistic product aimed to talk about your digital rights, the [DISAPPEAR documentary](https://www.arte.tv/en/videos/100750-000-F/disappear/).
 
 
-Looking for a contact email? _support at tracking dot exposed_
-
-#### Friendly reminder
-
-# If you call Facebook "_Meta_", you are falling in their attempt of rebranding — and that's would be wrong — don't forget, don't forgive
+Looking for a contact email? _support at tracking dot exposed_ — _An small project description, in italian, is [here](/italiano-1)._
 
 ---
 
-_An italian concept draft for this project is [here](/italiano-1)._
+<img src="/images/rightfultrolling/fbt2.jpg" />

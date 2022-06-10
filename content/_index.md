@@ -11,7 +11,7 @@ og_url: "https://libr.events/"
 og_description: "Interoperability is a characteristic of a system to work with other systems - we would not wait for regulations, but react against Facebook walled garden."
 ---
 
-## [Saturday 11th of June, Berlin, c-base, 6 hours HACKATHON](/hackathon-june-2022) - but not just for hackers.
+## [Saturday 11th of June, Berlin, c-base, 6 hours HACKATHON](/hackathon-june-2022) — not just for hackers.
 
 <!-- this is a snipped copied from a notion page -->
 <div data-block-id="141c1bb3-ef1c-4d49-a23f-592bc85891a4" class="notion-selectable notion-bookmark-block" style="width: 100%; max-width: 1733px; margin-top: 4px; margin-bottom: 4px;">
