@@ -95,4 +95,4 @@ So take part to our hackathon at c-base this Saturday 11th of June from 14:00 to
 
 #### Special animation
 
-<img src="/libr.events.morphing.gif" />
+<img src="/images/libr.events.morphing.gif" />
