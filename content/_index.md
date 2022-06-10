@@ -40,18 +40,18 @@ og_description: "Interoperability is a characteristic of a system to work with o
 
 at 2 PM:
 
-* `15 min` **Opening**, welcoming everybody, explaining the context of mobilize berlin and why we felt the need for a hackathon, showing the free software ecosystem surrounding mobilizon (https://docs.joinmobilizon.org/contribute/integrations/)
-* `15 min` talk with event organizers about their needs
-* `20 min` presenting [mobilizon rehsare](https://write.as/simone-robutti/supercharge-your-events-using-mobilizon-and-mobilizon-reshare)
-* `20 min` presenting librevents
-* `30 min` discussion among participants what to work at (todays goals, future goals, how to collaborate, design discussion)
-* `20 min` break
+* `15 minutes` **Opening**, welcoming everybody, explaining the context of mobilize berlin and why we felt the need for a hackathon, showing the free software ecosystem surrounding mobilizon (https://docs.joinmobilizon.org/contribute/integrations/)
+* `15 minutes` interview/survey event organizers to get their needs
+* `20 minutes` presenting [mobilizon reshare](https://write.as/simone-robutti/supercharge-your-events-using-mobilizon-and-mobilizon-reshare)
+* `20 minutes` presenting [librevent](https://github.com/tracking-exposed/librevent) and [mobilizon-poster](https://github.com/vecna/mobilizon-poster)
+* `30 minutes` discussion among participants: what to work at (hackathon goals, future goals, how to collaborate, design discussion)
+* `20 minutes` break
 
 at 4 PM:
 
-* `15 min` setting up working environment for everybody (Linux, Windows and Mac all welcome!)
-* `3 h` coding sessions
-* `45 min` feedback on the event, talking about the future (development of the tools and the workshop we are planning)
+* `15 minutes` setting up working environment for everybody (Linux, Windows and Mac all welcome!)
+* `3 hours` coding sessions
+* `45 minutes` feedback on the event, talking about the future (development of the tools and the workshop we are planning)
 
 at 8 PM: **End!** 🍻
 
