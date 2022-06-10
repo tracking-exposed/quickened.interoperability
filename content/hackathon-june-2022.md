@@ -91,8 +91,3 @@ So take part to our hackathon at c-base this Saturday 11th of June from 14:00 to
 ---
 
 <img src="/images/hckt-06-22/join the hackathon-2.png" />
-
-
-#### Special animation
-
-<img src="/images/libr.events.morphing.gif" />

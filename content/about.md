@@ -1,21 +1,28 @@
 ---
-title: Quick summary about us
+title: About us
 date: 2021-05-07
-layout: monthly
+layout: page
 draft: false
+
+extraCSS: "/css/fixers.css"
 ---
 
-A quick summary and reminder, this project:
+#### Who is working on this?
 
-* Has not any financial aim in its inception, minimize data collected, and if you don't fell it is transparent enough, please get in touch.
-* it is a temporarly limited experiment, a concept to explore on how citizen in 2021 might exert their rights
-* our target audience are group of people that want to leave facebook and feel struck in the monopoly effect, currently unregulated by the democratic institutions.
-* it is also developed in connection to an artistic product aimed to talk about your digital rights.
+## [_librevent_ contributors](https://github.com/tracking-exposed/librevent/graphs/contributors), [_mobilizon-reshare_ contributors](https://github.com/Tech-Workers-Coalition-Italia/mobilizon-reshare/graphs/contributors), [_mobilize.berlin_ maintainers](https://mobilize.berlin/about/instance).
 
----
+#### Notes
 
-* **Contacts**: support at tracking dot exposed
-* **Repositores**: [mobilizon-poster](https://github.com/vecna/mobilizon-poster), [this website](https://github.com/tracking-exposed/quickened.interoperability) in HUGO.
+* This project has not any financial aim in its inception, we minimize data collected, and experiment a new way to contrast surveillance capitalism.
+* our target audience is a group of people that want to leave Facebook and feel stuck in the monopoly effect, currently unregulated by the democratic institutions.
+* it was initially developed in connection to an artistic product aimed to talk about your digital rights, the [DISAPPEAR documentary](https://www.arte.tv/en/videos/100750-000-F/disappear/).
+
+
+Looking for a contact email? _support at tracking dot exposed_
+
+#### Friendly reminder
+
+# If you call Facebook "_Meta_", you are falling in their attempt of rebranding — and that's would be wrong — don't forget, don't forgive
 
 ---
 
