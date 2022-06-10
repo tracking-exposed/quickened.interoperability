@@ -49,33 +49,19 @@ So take part to our hackathon at c-base this Saturday 11th of June from 14:00 to
     </div>
 </div>
 
-**Goals**
-
-* Get people to join the hackathon
-* Let our TRex audience know we are working on these kind of projects
-
-**Plan**
-
-* Create a rallying post for social media (Twitter, Facebook, LinkedIn) to encourage people to share with those who are a) interested b) available c) in Berlin
-* Total post = post copy + post image
-* Image should be simple, largely an image with one bold CTA, the time, date and location as less attention-grabbing. The image should be visually striking and stand out in feeds
-* The image should feature small logos: Trex, Mobilize
-* The image should be inclusive and make a diverse group of people feel welcome to attend
-* We don’t need to create an illustration from scratch - we could use creative commons / rights free existing imagery (you may also have other ideas)
-
 #### Help to ask at the hackathon
 
-1. how quickly can be setup a Mobilizon instance? can it be tested and documented?
-2. test locally the extension and what the server is collecting - we are moving to a client side scraping
-3. do a unit test of the scraper by using the bunch of HTMLs we can collect
-4. improve statistics collection, find out meaningful metrics
-5. test the puppeteer method (which is not maintained, but it has worked for months)
-6. can the server automatically post in mobilizon? where the authentication credential should be handled?
-7. can the extension pick the picture?
-8. can you design a workflow for newcomers?
-9. can we review all the existing texts?
+1. How quickly can be setup a Mobilizon instance? can it be tested and documented?
+2. Test locally the extension and what the server is collecting - we are moving to a client side scraping
+3. Do a unit test of the scraper by using the bunch of HTMLs we can collect
+4. Improve statistics collection, find out meaningful metrics
+5. Test the puppeteer method (which is not maintained, but it has worked for months)
+6. Can the server automatically post in mobilizon? where the authentication credential should be handled?
+7. Can the extension pick the picture?
+8. Can you design a workflow for newcomers?
+9. Can we review all the existing texts?
 
-#### Resources
+#### Resources / Links
 
 * mobilizon.berlin announcement speech: https://blogs.fsfe.org/joseph/tag/mobilize-berlin/
 * this hackathon event in mobilize.berlin: https://mobilize.berlin/events/9d80d85c-e198-4611-8e6d-edffe219db78
