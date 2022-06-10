@@ -68,23 +68,14 @@ So take part to our hackathon at c-base this Saturday 11th of June from 14:00 to
 1. how quickly can be setup a Mobilizon instance? can it be tested and documented?
 2. test locally the extension and what the server is collecting - we are moving to a client side scraping
 3. do a unit test of the scraper by using the bunch of HTMLs we can collect
-4. improve statistics collection, find out meaningful metrics
-5. test the puppeteer method (which is not maintained, but it has worked for months)
+4. test the statistics
+5. test the puppeteer method
 6. can the server automatically post in mobilizon? where the authentication credential should be handled?
 7. can the extension pick the picture?
 8. can you design a workflow for newcomers?
 9. can we review all the existing texts?
 
-#### Resources
 
-* mobilizon.berlin announcement speech: https://blogs.fsfe.org/joseph/tag/mobilize-berlin/
-* this hackathon event in mobilize.berlin: https://mobilize.berlin/events/9d80d85c-e198-4611-8e6d-edffe219db78
-* librevent codebase: https://github.com/tracking-exposed/librevent
-* mobilzone-reshare announcement and details https://write.as/simone-robutti/supercharge-your-events-using-mobilizon-and-mobilizon-reshare
-* mobilzone-reshare code https://github.com/Tech-Workers-Coalition-Italia/mobilizon-reshare
-* https://www.youtube.com/watch?v=6UOz6nrzntQ&t=3882s - video from https://digitalegesellschaft.de/2022/06/117-netzpolitischer-abend/
-* c-base, Rungestraße 20 (near U8 Jannowitzbrücke / Heinrich-Heine-Strasse) https://www.openstreetmap.org/?mlat=52.51298&mlon=13.42010#map=19/52.51298/13.42010
-* DISAPPEAR documentary https://www.arte.tv/en/videos/100750-000-F/disappear/
 
 #### Picture to use
 
@@ -108,7 +99,73 @@ So take part to our hackathon at c-base this Saturday 11th of June from 14:00 to
 
 
 
-#### logotype
+#### random morphing for creative uses
 
+<img src="/images/logos/dream_4x8aih2ohr5.jpg" />
+
+---
+
+<img src="/images/logos/dream_7i1i9oacvbn.jpg" />
+
+---
+
+<img src="/images/logos/dream_9pyvh3c0bps.jpg" />
+
+---
+
+<img src="/images/logos/dream_ch60ylowucy.jpg" />
+
+---
+
+<img src="/images/logos/dream_ddtzfmbftv7.jpg" />
+
+---
+
+<img src="/images/logos/dream_fcfdz21utla.jpg" />
+
+---
+
+<img src="/images/logos/dream_jc675ixoidx.jpg" />
+
+---
+
+<img src="/images/logos/dream_jgeueqael8p.jpg" />
+
+---
+
+<img src="/images/logos/dream_nol5shbnyap.jpg" />
+
+---
+
+<img src="/images/logos/dream_oz5qpzevrtt.jpg" />
+
+---
+
+<img src="/images/logos/dream_pi7m87457pu.jpg" />
+
+---
+
+<img src="/images/logos/dream_um3bvqog2g8.jpg" />
+
+---
+
+<img src="/images/logos/dream_wxbf79wbh5a.jpg" />
+
+
+#### original
 
 <img src="/images/logos/librevents-outline.jpg" />
+
+
+#### A few pictures from c-base
+
+
+<img src="/images/mobilize-berlin/cbase1.jpg" />
+
+---
+
+<img src="/images/mobilize-berlin/cbase2.jpg" />
+
+---
+
+<img src="/images/mobilize-berlin/cbase3.jpg" />
