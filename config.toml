@@ -32,7 +32,7 @@ canonifyURLs = true
     weight = 30
 
  [[menu.footer]]
-    name = "Get in touch"
+    name = "About"
     url ="/about"
     weight = 0
 
