@@ -1,4 +1,4 @@
-## [Librevents](https://libr.events)
+## [𝕃𝕀𝔹ℝ𝔼𝕍𝔼ℕ𝕋𝕊](https://libr.events)
 
 This repository is the HTML/markedown and template used by Hugo to generate https://libr.events
 
