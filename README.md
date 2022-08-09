@@ -1,4 +1,4 @@
-## Quickened Interoperabily (website)
+## [Librevents](https://libr.events)
 
 This repository is the HTML/markedown and template used by Hugo to generate https://libr.events
 
