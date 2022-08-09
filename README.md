@@ -1,6 +1,6 @@
 ## Quickened Interoperabily (website)
 
-This repository is the HTML/markedown and template used by Hugo to generate https://quickened.interoperability.tracking.exposed 
+This repository is the HTML/markedown and template used by Hugo to generate https://libr.events
 
 Content is in the 'content' directory.
 
@@ -15,6 +15,8 @@ Both the theme and this
 
 ### install and setup
 
+you need Hugo (Minimum HUGO version: 0.56) and Git installed in your Linux system to do this:
+
     git clone git@github.com:tracking-exposed/quickened.interoperability.git
     cd quickened.interoperability
     mkdir themes
@@ -24,5 +26,3 @@ Both the theme and this
     hugo -D server
 
 And then connect to http://localhost:1313
-
-Minimum HUGO version: 0.56
