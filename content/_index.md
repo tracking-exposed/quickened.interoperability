@@ -32,9 +32,14 @@ Although many event managers support Mobilize Berlin and would love to stop usin
 
 First of all, the hackathon is a great opportunity to get to know each other. And to become a community. **We are happy to invite you to join our Hackathon to improve two Free Software tools** for event publishers to manage their events across platforms, including [Mobilize.Berlin](http://mobilize.berlin/).
 
-**Mobilizon-reshare** allows organizers to share events from Mobilizon on a broad selection of platforms (Facebook, Mastodon, Twitter, Telegram, Zulip), enabling automation of social media strategies and offering the possibility for people to attend an event without being forced to use a platform like Facebook (network effect). [post](https://write.as/simone-robutti/supercharge-your-events-using-mobilizon-and-mobilizon-reshare), [code](https://github.com/Tech-Workers-Coalition-Italia/mobilizon-reshare).
+**Mobilizon-reshare** allows organizers to share events from Mobilizon on a broad selection of platforms (Facebook, Mastodon, Twitter, Telegram, Zulip), enabling automation of social media strategies and offering the possibility for people to attend an event without being forced to use a platform like Facebook (network effect).
+  * read the [post](https://write.as/simone-robutti/supercharge-your-events-using-mobilizon-and-mobilizon-reshare)
+  * check the [code](https://github.com/Tech-Workers-Coalition-Italia/mobilizon-reshare).
 
-**[Librevents](https://libr.events)** is a browser extension to scrape (collect) events from Facebook and repost them on [Mobilize.Berlin](http://mobilize.berlin/) and other Fediverse platforms. The goal of this tool is to help [Mobilize.Berlin](http://mobilize.berlin/) reach a critical mass of events to attract users and "liberate" events from corporate data-mining services like Facebook Events, Meet-up etc. [Code](https://github.com/tracking-exposed/librevent).
+**Librevent** is a browser extension (and a nodejs backend) that liberate events from Facebook, by scraping and repost them on [Mobilize.Berlin](http://mobilize.berlin/) (or any other Mobilizon platforms). The goal of this tool is to help [Mobilize.Berlin](http://mobilize.berlin/) reach a critical mass of events to attract users and set in motion an effort of liberate events from corporate data-mining services like Facebook Events, Meet-up etc.
+  * check the [intro https://libr.events/slides/intro](https://libr.events/slides/intro)
+  * the [github repository](https://github.com/tracking-exposed/librevent).
+  * Or the [20 minutes video recorded in July https://www.youtube.com/watch?v=deXHojuRXIc](https://www.youtube.com/watch?v=deXHojuRXIc)
 
 #### Who is invited to attend?
 
@@ -48,6 +53,6 @@ You can learn more about [Mobilize.Berlin](http://mobilize.berlin/) from our [20
 
 We are also featured in the 2021 Arte documentary "[DISAPPEAR- cover your online tracks](https://www.arte.tv/en/videos/100750-000-F/disappear/)", which can be viewed with subtitles in 6 languages: DE, EN, FR, IT, POL, SP.  
 
-#### Follow or [comment the event in mobilize.berlin](https://mobilize.berlin/events/d573f9fd-016a-4859-8410-db6732e86d08#comments).
+#### Follow in the fediverse, or [comment the event served by mobilize.berlin](https://mobilize.berlin/events/d573f9fd-016a-4859-8410-db6732e86d08#comments).
 
 <!-- {{<librevent-extension>}} -->
