@@ -17,3 +17,7 @@ p {
 ol, ul {
 	font-size: 1.3em;
 }
+
+.img--smol {
+	width: 80%;
+}
