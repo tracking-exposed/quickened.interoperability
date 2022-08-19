@@ -1,5 +1,5 @@
 ---
-title: libre.events tool — libertadata
+title: cli tool to liberate events — libertadata
 subtitle: A quick user guide
 date: 2021-10-09
 draft: false
@@ -7,8 +7,10 @@ layout: page
 ---
 
 
+Note: this version is the 0.1/0.2 of librevent, now we're at the version > 0.3, please refer to [/librevent](/librevent) page.
 
 
+---
 
 ### First step: produce the pointers file
 

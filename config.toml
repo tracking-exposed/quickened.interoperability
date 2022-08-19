@@ -38,7 +38,7 @@ canonifyURLs = true
 
  [[menu.featured]]
     name= "LIBREVENT"
-    url = "https://addons.mozilla.org/en-US/firefox/addon/librevent/"
+    url = "/librevent"
     weight = -180
     pre = "/images/librevent.png"
     post = "Our browser extension meant to set events free from Facebook"

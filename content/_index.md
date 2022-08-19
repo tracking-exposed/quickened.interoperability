@@ -11,7 +11,6 @@ og_url: "https://libr.events/"
 og_description: "Interoperability is a characteristic of a system to work with other systems - we would not wait for regulations, but react against Facebook walled garden."
 ---
 
-
 ## Saturday 3rd September 2022, Hackathon.
 
 #### Regaining control of our events with [Mobilize.Berlin](http://mobilize.berlin/)
@@ -55,4 +54,6 @@ We are also featured in the 2021 Arte documentary "[DISAPPEAR- cover your online
 
 #### Follow in the fediverse, or [comment the event served by mobilize.berlin](https://mobilize.berlin/events/d573f9fd-016a-4859-8410-db6732e86d08#comments).
 
-<!-- {{<librevent-extension>}} -->
+---
+
+{{<librevent-extension>}}
