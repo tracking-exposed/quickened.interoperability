@@ -50,7 +50,7 @@ There will be sessions presenting the work that has already been done and possib
 
 You can learn more about [Mobilize.Berlin](http://mobilize.berlin/) from our [20-minute presentation at CCC in 2020](https://media.ccc.de/v/r3c-oio-241-berlin-let-s-take-back-control-of-our-events-#t=0).
 
-We are also featured in the 2021 Arte documentary "[DISAPPEAR- cover your online tracks](https://www.arte.tv/en/videos/100750-000-F/disappear/)", which can be viewed with subtitles in 6 languages: DE, EN, FR, IT, POL, SP.  
+We are also featured in the 2021 Arte documentary "[DISAPPEAR - cover your online tracks](https://www.arte.tv/en/videos/100750-000-F/disappear/)", which can be viewed with subtitles in 6 languages: DE, EN, FR, IT, POL, SP.  
 
 #### Follow in the fediverse, or [comment the event served by mobilize.berlin](https://mobilize.berlin/events/d573f9fd-016a-4859-8410-db6732e86d08#comments).
 
