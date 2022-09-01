@@ -8,7 +8,7 @@ og_title: "Adversarial Interoperability Hackathon"
 og_type: "website"
 og_image: "https://libr.events/images/hckt-06-22/original-invite-mobe.png"
 og_url: "https://libr.events/hackathon-june-2022"
-og_description: "C-Base, Berlin, June 11th 2022, on how to free events from the walled garden of Facebook"
+og_description: "C-Base, Berlin, September 23rd 2022, on how to free events from the walled garden of Facebook"
 
 extraCSS: "/css/fixers.css"
 ---

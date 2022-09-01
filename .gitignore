@@ -3,6 +3,8 @@
 public/
 resources/_gen/
 themes/
+.hugo_build.lock
 
 # Internal deployment method
 .infrastructure/*
+
