@@ -26,6 +26,13 @@ extraCSS: "/css/fixers.css"
 8. c-base, Rungestraße 20 (near U8 Jannowitzbrücke / Heinrich-Heine-Strasse) https://www.openstreetmap.org/?mlat=52.51298&mlon=13.42010#map=19/52.51298/13.42010
 9. DISAPPEAR documentary https://www.arte.tv/en/videos/100750-000-F/disappear/
 
+#### Version 0.2 of librevents
+
+
+<iframe src="https://player.vimeo.com/video/744976039?h=c2b064d826" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/744976039">librevent version 0.2 example</a> from <a href="https://mobilize.berlin">Mobilize Berlin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
 #### Picture to use
 
 <img src="/images/hckt-09-22/flyer-horizontal.png" />
