@@ -34,14 +34,14 @@ function supporterInfo(profile) {
 function appendEvents(posted) {
     // it goes in #events div
     console.log(posted);
-    const content = _.map(posted, function(evp) {
+    const content = _.map(posted, function(evp, order) {
 
         const fields = _.pick(evp, ['href', 'savingTime', 'title', 'posted.url']);
         // we should test if .posted exist
         return `<div>
-            <a target=_blank href="${fields.href}">${fields.title}</a>,
+            ${order + 1}. <a target=_blank href="${fields.href}">${fields.title}</a>,
             <a target=_blank href="${fields.posted.url}">${fields.posted.url}</a>,
-            ${fields.savingTime}.
+            ${fields.savingTime}.<br>
         </div>`
     }).join("\n");
     
