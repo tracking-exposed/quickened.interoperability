@@ -15,43 +15,37 @@ function getPubKey() {
 function personal() {
 
     const pk = getPubKey();
-    const urlp = buildApiUrl('personal', `${pk}/previews/json`, 2);
+    const urlp = buildApiUrl('personal', `${pk}`, 2);
     $.getJSON(urlp, (data) => {
         if(data.error) 
             reportError(data);
-        else
-            appendPreviews(data);
-    });
-    const urle = buildApiUrl('personal', `${pk}/events/json`, 2);
-    $.getJSON(urle, (data) => {
-        if(data.error) 
-            reportError(data);
-        else
-            appendEvents(data);
+        else {
+            supporterInfo(data.supporter);
+            appendEvents(data.posted);
+        }
     });
 }
 
-function appendEvents(listofe) {
-    console.log(listofe);
+function supporterInfo(profile) {
+    const fields = _.pick(profile, ['publicKey', 'lastActivity', 'pseudo', 'config'])
+    $('#profile').html(`<pre>${JSON.stringify(fields, undefined, 2)}</pre>`);
 }
 
-function appendPreviews(listofp) {
-    // it goes in #previews div
-    const content = _.flatten(_.times((listofp.length / 2), function(counter) {
-        const left = _.nth(listofp, counter * 2);
-        const right = _.nth(listofp, (counter * 2) + 1);
-        return `<tr>
-        <td>
-            <span class="timeago">${left.timeago} ago</span>
-            <a href="${left.href}" target=_blank><code>${left.title}</code></a>
-        </td>
-        <td>
-            <span class="timeago">${right.timeago} ago</span>
-            <a href="${right.href}" target=_blank><code>${right.title}</code></a>
-        </td>
-        </tr>`;
-    }));
-    $("#previews").append(`<table class="table">${content.join('\n')}</table>`);
+function appendEvents(posted) {
+    // it goes in #events div
+    console.log(posted);
+    const content = _.map(posted, function(evp) {
+
+        const fields = _.pick(evp, ['href', 'savingTime', 'title', 'posted.url']);
+        // we should test if .posted exist
+        return `<div>
+            <a target=_blank href="${fields.href}">${fields.title}</a>,
+            <a target=_blank href="${fields.posted.url}">${fields.posted.url}</a>,
+            ${fields.savingTime}.
+        </div>`
+    }).join("\n");
+    
+    $("#events").html(content);
 }
 
 function fixCSVlinks() {
