@@ -40,6 +40,9 @@ First of all, the hackathon is a great opportunity to get to know each other. An
   * the [github repository](https://github.com/tracking-exposed/librevent).
   * Or the [20 minutes video recorded in July https://www.youtube.com/watch?v=deXHojuRXIc](https://www.youtube.com/watch?v=deXHojuRXIc)
 
+
+{{<bord-img href="/images/librevent-arch-0.3.jpg">}}
+
 #### Who is invited to attend?
 
 Everyone, who is dedicated to further develop one of the two tools. Be it through feedback or through coding. Experience with UX Design, NodeJs, Browser Extension or Python might be useful, but is by no means necessary.
